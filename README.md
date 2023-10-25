@@ -1,4 +1,6 @@
-# Supabase Email and Password Server-side login with SvelteKit
+# Supabase gotrue resend() issue
+
+This repo is created from the [Supabase SvelteKit auth exapmple](https://github.com/supabase/auth-helpers/tree/main/examples/sveltekit) to demonstrate an issue with the `supabase.auth.resend()` function.
 
 ## Getting started
 
